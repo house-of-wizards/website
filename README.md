@@ -43,4 +43,3 @@ npm run build
   <img src="https://contrib.rocks/image?repo=house-of-wizards/website" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
