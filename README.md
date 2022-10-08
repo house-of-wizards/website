@@ -38,3 +38,9 @@ open your browser of choice and go to localhost:3000 [http://localhost:3000](htt
 ```bash
 npm run build
 ```
+
+<a href="https://github.com/house-of-wizards/website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=house-of-wizards/website" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
